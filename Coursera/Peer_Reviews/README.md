@@ -1,1 +1,1 @@
-This repository folders is for Coursera Peer Reviews.
+This repository folder is for Coursera Peer Reviews.
